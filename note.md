@@ -1,4 +1,4 @@
-- Create an es6 project via `js-generator` and invite everyone to your repo
+<!-- - Create an es6 project via `js-generator` and invite everyone to your repo
 - Divvy up the workload for each team member. You should have at least 2 functions for each helper file.
 - Src File structure
 
@@ -10,4 +10,11 @@
     x array_helper.js
   x bootstrap.js
   x vendor.js
-```
+``` -->
+
+# Ben & Brandon on Strings
+
+# Tyler on Numbers
+
+# Rhyu on Arrays
+
