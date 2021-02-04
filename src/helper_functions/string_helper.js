@@ -1,5 +1,16 @@
 //  String
 
+
+
+
+
+
+
+
+
+
+
+
 function reverseString(string) {
     let newArray = string.split(" ")
     console.log(newArray)
