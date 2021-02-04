@@ -20,11 +20,9 @@ console.log(reverseString("Hello there how are you today?"));
 
 export const capitalizer = (sentence) => {
   const divSen = sentence.split(" ");
-  return divSen
-    .map((word) => {
+  return divSen.map((word) => {
       return word.charAt(0).toUpperCase() + word.slice(1);
-    })
-    .join(" ");
+    }).join(" ");
 };
 
 console.log(
